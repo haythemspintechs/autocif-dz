@@ -1,0 +1,59 @@
+{
+  "@@locale": "en",
+  "appTitle": "AutoCif DZ",
+  "appSubtitle": "Car Import Cost Calculator",
+
+  "navCalculator": "Calculator",
+  "navChecklist": "Checklist",
+  "navSettings": "Settings",
+
+  "inputSectionTitle": "Vehicle & Purchase Details",
+  "labelFobPrice": "FOB Price",
+  "labelFobPriceHint": "Vehicle price at origin port (before shipping)",
+  "labelEngineType": "Engine Type",
+  "engineTypeElectric": "Electric",
+  "engineTypeGasoline": "Gasoline",
+  "engineTypeHybrid": "Hybrid",
+  "labelEngineCapacity": "Engine Capacity (cc)",
+  "labelOceanFreight": "Ocean Freight",
+  "labelMarineInsurance": "Marine Insurance",
+  "labelExchangeRateMode": "Exchange Rate Mode",
+  "exchangeRateOfficial": "Official Bank Rate",
+  "exchangeRateSquare": "Parallel Market Rate (Square)",
+
+  "sectionTierTitle": "Applicable Customs Tier",
+  "tierLow": "≤ 1200cc or Electric — 6% Duty",
+  "tierMid": "1201cc – 1800cc — 15% Duty",
+  "tierHigh": "> 1800cc — 24% Duty",
+
+  "breakdownTitle": "Cost Breakdown",
+  "breakdownFob": "FOB Value",
+  "breakdownFreight": "Ocean Freight",
+  "breakdownInsurance": "Marine Insurance",
+  "breakdownCif": "CIF Value",
+  "breakdownCustomsDuty": "Customs Duty (Article 110)",
+  "breakdownSolidarityTax": "Solidarity Tax (CS) — 3%",
+  "breakdownVat": "VAT (TVA) — 19%",
+  "breakdownRps": "Fixed Service Fee (RPS)",
+  "breakdownBrokerFee": "Customs Broker Fee",
+  "breakdownExpertInspection": "Expert Inspection Fee",
+  "breakdownGrayCard": "Gray Card Processing",
+  "breakdownTotal": "Estimated Total Cost",
+
+  "currencyDzd": "DZD",
+  "currencyMillionCentimes": "Million Centimes",
+
+  "depannageDisclaimer": "Note: This estimate excludes tow truck / breakdown transport (Dépannage) costs, as these vary significantly by city and wilaya.",
+
+  "buttonCalculate": "Calculate",
+  "buttonShareResult": "Share Result",
+  "buttonReset": "Reset",
+
+  "checklistTitle": "Import Document Checklist",
+
+  "settingsLanguage": "Language",
+  "settingsTheme": "Theme",
+  "settingsThemeLight": "Light",
+  "settingsThemeDark": "Dark",
+  "settingsThemeSystem": "System Default"
+}

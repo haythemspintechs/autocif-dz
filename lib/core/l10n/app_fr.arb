@@ -1,0 +1,59 @@
+{
+  "@@locale": "fr",
+  "appTitle": "AutoCif DZ",
+  "appSubtitle": "Calculateur de Coût d'Importation Automobile",
+
+  "navCalculator": "Calculateur",
+  "navChecklist": "Documents",
+  "navSettings": "Paramètres",
+
+  "inputSectionTitle": "Détails du Véhicule et de l'Achat",
+  "labelFobPrice": "Prix FOB",
+  "labelFobPriceHint": "Prix du véhicule au port d'origine (avant expédition)",
+  "labelEngineType": "Type de Moteur",
+  "engineTypeElectric": "Électrique",
+  "engineTypeGasoline": "Essence",
+  "engineTypeHybrid": "Hybride",
+  "labelEngineCapacity": "Cylindrée (cc)",
+  "labelOceanFreight": "Fret Maritime",
+  "labelMarineInsurance": "Assurance Maritime",
+  "labelExchangeRateMode": "Mode de Taux de Change",
+  "exchangeRateOfficial": "Taux Bancaire Officiel",
+  "exchangeRateSquare": "Taux du Marché Parallèle (Square)",
+
+  "sectionTierTitle": "Palier Douanier Applicable",
+  "tierLow": "≤ 1200cc ou Électrique — Droit de 6%",
+  "tierMid": "1201cc – 1800cc — Droit de 15%",
+  "tierHigh": "> 1800cc — Droit de 24%",
+
+  "breakdownTitle": "Détail des Coûts",
+  "breakdownFob": "Valeur FOB",
+  "breakdownFreight": "Fret Maritime",
+  "breakdownInsurance": "Assurance Maritime",
+  "breakdownCif": "Valeur CIF",
+  "breakdownCustomsDuty": "Droit de Douane (Article 110)",
+  "breakdownSolidarityTax": "Taxe de Solidarité (CS) — 3%",
+  "breakdownVat": "TVA — 19%",
+  "breakdownRps": "Redevance Fixe (RPS)",
+  "breakdownBrokerFee": "Frais de Transitaire",
+  "breakdownExpertInspection": "Frais d'Expertise",
+  "breakdownGrayCard": "Frais de Carte Grise",
+  "breakdownTotal": "Coût Total Estimé",
+
+  "currencyDzd": "DZD",
+  "currencyMillionCentimes": "Million de Centimes",
+
+  "depannageDisclaimer": "Remarque : Cette estimation exclut les frais de dépannage / remorquage, car ils varient fortement selon la ville et la wilaya.",
+
+  "buttonCalculate": "Calculer",
+  "buttonShareResult": "Partager le Résultat",
+  "buttonReset": "Réinitialiser",
+
+  "checklistTitle": "Liste des Documents d'Importation",
+
+  "settingsLanguage": "Langue",
+  "settingsTheme": "Thème",
+  "settingsThemeLight": "Clair",
+  "settingsThemeDark": "Sombre",
+  "settingsThemeSystem": "Système"
+}

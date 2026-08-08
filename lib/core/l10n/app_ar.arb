@@ -1,0 +1,59 @@
+{
+  "@@locale": "ar",
+  "appTitle": "أوتوسيف DZ",
+  "appSubtitle": "حاسبة تكلفة استيراد السيارات",
+
+  "navCalculator": "الحاسبة",
+  "navChecklist": "قائمة الوثائق",
+  "navSettings": "الإعدادات",
+
+  "inputSectionTitle": "تفاصيل السيارة والشراء",
+  "labelFobPrice": "سعر FOB",
+  "labelFobPriceHint": "سعر السيارة في ميناء المنشأ (قبل الشحن)",
+  "labelEngineType": "نوع المحرك",
+  "engineTypeElectric": "كهربائية",
+  "engineTypeGasoline": "بنزين",
+  "engineTypeHybrid": "هجين",
+  "labelEngineCapacity": "سعة المحرك (سم مكعب)",
+  "labelOceanFreight": "الشحن البحري",
+  "labelMarineInsurance": "التأمين البحري",
+  "labelExchangeRateMode": "وضع سعر الصرف",
+  "exchangeRateOfficial": "السعر البنكي الرسمي",
+  "exchangeRateSquare": "سعر السوق الموازي (السكوار)",
+
+  "sectionTierTitle": "الشريحة الجمركية المطبقة",
+  "tierLow": "أقل أو يساوي 1200 سم³ أو كهربائية — رسم 6٪",
+  "tierMid": "1201 – 1800 سم³ — رسم 15٪",
+  "tierHigh": "أكثر من 1800 سم³ — رسم 24٪",
+
+  "breakdownTitle": "تفصيل التكاليف",
+  "breakdownFob": "قيمة FOB",
+  "breakdownFreight": "الشحن البحري",
+  "breakdownInsurance": "التأمين البحري",
+  "breakdownCif": "قيمة CIF",
+  "breakdownCustomsDuty": "الرسم الجمركي (المادة 110)",
+  "breakdownSolidarityTax": "رسم التضامن (CS) — 3٪",
+  "breakdownVat": "الرسم على القيمة المضافة (TVA) — 19٪",
+  "breakdownRps": "الرسم الثابت للخدمة (RPS)",
+  "breakdownBrokerFee": "أتعاب وسيط الجمارك",
+  "breakdownExpertInspection": "رسم الخبرة الفنية",
+  "breakdownGrayCard": "رسم استخراج البطاقة الرمادية",
+  "breakdownTotal": "التكلفة الإجمالية التقديرية",
+
+  "currencyDzd": "دج",
+  "currencyMillionCentimes": "مليون سنتيم",
+
+  "depannageDisclaimer": "ملاحظة: هذا التقدير لا يشمل مصاريف سطحة السحب / الدعم لأنها تختلف بشكل كبير حسب المدينة والولاية.",
+
+  "buttonCalculate": "احسب",
+  "buttonShareResult": "مشاركة النتيجة",
+  "buttonReset": "إعادة تعيين",
+
+  "checklistTitle": "قائمة وثائق الاستيراد",
+
+  "settingsLanguage": "اللغة",
+  "settingsTheme": "المظهر",
+  "settingsThemeLight": "فاتح",
+  "settingsThemeDark": "غامق",
+  "settingsThemeSystem": "افتراضي النظام"
+}

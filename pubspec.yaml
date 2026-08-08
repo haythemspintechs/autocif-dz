@@ -1,0 +1,62 @@
+name: autocif_dz
+description: "AutoCif DZ - Algerian Car Import Cost Calculator (حاسبة استيراد السيارات)"
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State Management
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+
+  # Localization
+  intl: ^0.20.2
+
+  # UI / Fonts / Animation
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.2
+  cupertino_icons: ^1.0.8
+
+  # Monetization
+  google_mobile_ads: ^7.0.0
+
+  # Storage & Utilities
+  shared_preferences: ^2.3.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  share_plus: ^10.1.2
+  path_provider: ^2.1.5
+
+  # Export / Image
+  screenshot: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/icons/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Cairo-SemiBold.ttf
+          weight: 600
